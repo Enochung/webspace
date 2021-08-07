@@ -1,0 +1,5 @@
+package com.khh.view;
+
+public class HelloServlet {
+
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+/Users/zhongfuren/eclipse-webspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1643782655.index
+/myweb01/src/main/java
+/Users/zhongfuren/eclipse-webspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3849739617.index
+/myweb01/src/main/resources
+/Users/zhongfuren/eclipse-webspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2199858646.index
+/myweb/src/main/resources
